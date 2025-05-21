@@ -17,8 +17,6 @@ Cada script permite:
 
 ## ✅ Descrição dos Notebooks
 
----
-
 ### `Arquivos_CSV.py`
 
 Processa múltiplos arquivos da extenção `.csv`
@@ -31,8 +29,6 @@ Processa múltiplos arquivos da extenção `.csv`
 
 📎 **Saída:**  
 `<Nome da Empresa> - Composição dos fornecedores.xlsx`
-
----
 
 ### `Arquivos_txt.py`
 
@@ -47,8 +43,6 @@ Processa múltiplos arquivos da extenção ".txt"
 
 📎 **Saída:**  
 `<Nome da Empresa> - Composição dos fornecedores.xlsx`
-
----
 
 ### `Arquivos_xls_e_xlsx.py`
 
