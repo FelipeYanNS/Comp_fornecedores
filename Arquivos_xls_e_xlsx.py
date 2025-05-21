@@ -7,7 +7,7 @@ from IPython.display import display
 from google.colab import files
 
 # Caminho base dos arquivos
-caminho_pasta = '/content/drive/MyDrive/Teste4/'
+caminho_pasta = '/content/drive/MyDrive/Lançamentos Contábeis/'
 
 # Remove acentos de strings
 def remover_acentos(txt):
