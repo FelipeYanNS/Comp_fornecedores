@@ -14,7 +14,10 @@ Cada script permite:
 - Gerar automaticamente um arquivo Excel por empresa.
 
 ---
+
 ## ✅ Descrição dos Notebooks
+
+---
 
 ### `Arquivos_CSV.py`
 
